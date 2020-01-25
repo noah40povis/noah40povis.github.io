@@ -5,7 +5,7 @@
  */
 
 .btn-default,
-.btn-primary,
+.btn-primary { background-color: #00c7c6; },
 .btn-success,
 .btn-info,
 .btn-warning,
