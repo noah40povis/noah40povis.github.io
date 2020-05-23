@@ -35,10 +35,7 @@
 
 // variables.less
 $theme-primary: #f2f2f2;
-$theme-dark: rgb(255, 255, 255);
+$theme-dark: rgb(220, 220, 220);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "mixins",
-        "base"
-;
+@import "mixins", "base";
