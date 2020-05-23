@@ -1,6 +1,6 @@
 # Site settings
-title: Data Analytics NYC
-email: dataanalyticsnyc@gmail.com
+title: Lily Su
+email: lilyxsu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "dataanalyticsnyc.github.io" # the base hostname & protocol for your site
