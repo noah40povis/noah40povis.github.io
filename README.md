@@ -105,7 +105,7 @@ More custom changes can be applied by doing a search and replace of the existing
 ### CNAME
 
 Specify your custom domain here. You will also need to route to this site from your account where you purchased your domain. 
-[More info on how to set up a custom domain on the domain provider side](https://docs.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages)
+[More info on how to set up a custom domain on the domain provider side.](https://docs.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages)
 
 
 
@@ -118,6 +118,6 @@ Distributed under the Apache-2.0 License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-This site could not have been made without the work that Harsh put in to create modeals that allow Youtube video previews: 
+This site could not have been made without the work that Harsh put in to create pop up modals in the portfolio section that allow Youtube video previews: 
 * [See Harsh's github pages repo](https://github.com/hurshd0/hurshd0.github.io)
 * [The Jekyll Github Pages Project](https://jekyllrb.com/docs/github-pages/)
