@@ -1,12 +1,12 @@
 # Site settings
-title: Lily Su
-email: lilyxsu@gmail.com
+title: Noah Povis
+email: n.c.povis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "dataanalyticsnyc.github.io" # the base hostname & protocol for your site
+url: "noah40povis.github.io" # the base hostname & protocol for your site
 
-twitter_username: printing_3D
-github_username: LilySu
+twitter_username: technotechkid
+github_username: noah40povis
 
 # Build settings
 markdown: kramdown
